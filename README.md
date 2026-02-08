@@ -49,4 +49,4 @@ In this section, I list data analytics projects briefly describing the technolog
 ### Contacts
 
 * **LinkedIn:** [@andrey-de-paula-e-silva](https://www.linkedin.com/in/andrey-de-paula-e-silva)
-* **Email:** andreypsilva@outlook.com.br
+* **Email:** andreydeps@gmail.com
