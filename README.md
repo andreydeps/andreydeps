@@ -20,7 +20,6 @@ The best way to showcase skills is by doing and sharing your work, but certifica
 
 * **Microsoft Certified: Power BI Data Analyst Associate (PL-300)** (Sep 2025)
 * **Databricks Data Analyst Associate** (In Progress)
-* **Microsoft Session:** From PL-300 to DP-600 - Enhancing Analytics Skills (Nov 2025)
 
 ### Portfolio Projects
 
