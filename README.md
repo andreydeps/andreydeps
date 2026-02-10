@@ -21,30 +21,6 @@ The best way to showcase skills is by doing and sharing your work, but certifica
 * **Microsoft Certified: Power BI Data Analyst Associate (PL-300)** (Sep 2025)
 * **Databricks Data Analyst Associate** (In Progress)
 
-### Portfolio Projects
-
-In this section, I list data analytics projects briefly describing the technology stack used to solve cases.
-
-#### [Project Title 01]
-
-* **Code:** [Link to Repository]
-* **Goal:** [Briefly describe the objective]
-* **Description:** [Detailed explanation of the analysis and process]
-* **Skills:** [e.g., Data Cleaning, ETL, Data Storytelling]
-* **Technology:** [e.g., SQL, Power BI, Databricks]
-* **Results:** [What was the final outcome or insight?]
-
----
-
-#### [Project Title 02]
-
-* **Code:** [Link to Repository]
-* **Goal:** [Briefly describe the objective]
-* **Description:** [Detailed explanation of the analysis and process]
-* **Skills:** [e.g., Data Modeling, DAX, SQL Optimization]
-* **Technology:** [e.g., Python, SQL, Power BI]
-* **Results:** [What was the final outcome or insight?]
-
 ### Contacts
 
 * **LinkedIn:** [@andrey-de-paula-e-silva](https://www.linkedin.com/in/andrey-de-paula-e-silva)
